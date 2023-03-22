@@ -1,0 +1,5 @@
+C:\Users\gulop\Desktop\TP2ERNESTOACUNA\Ejercicio9\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.exe.config
+C:\Users\gulop\Desktop\TP2ERNESTOACUNA\Ejercicio9\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.exe
+C:\Users\gulop\Desktop\TP2ERNESTOACUNA\Ejercicio9\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.pdb
+C:\Users\gulop\Desktop\TP2ERNESTOACUNA\Ejercicio9\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.exe
+C:\Users\gulop\Desktop\TP2ERNESTOACUNA\Ejercicio9\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.pdb

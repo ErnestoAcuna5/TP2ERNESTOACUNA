@@ -1,0 +1,5 @@
+C:\Users\gulop\Desktop\TP2ERNESTOACUNA\Ejercicio13\Ejercicio13\Ejercicio13\bin\Debug\Ejercicio13.exe.config
+C:\Users\gulop\Desktop\TP2ERNESTOACUNA\Ejercicio13\Ejercicio13\Ejercicio13\bin\Debug\Ejercicio13.exe
+C:\Users\gulop\Desktop\TP2ERNESTOACUNA\Ejercicio13\Ejercicio13\Ejercicio13\bin\Debug\Ejercicio13.pdb
+C:\Users\gulop\Desktop\TP2ERNESTOACUNA\Ejercicio13\Ejercicio13\Ejercicio13\obj\Debug\Ejercicio13.exe
+C:\Users\gulop\Desktop\TP2ERNESTOACUNA\Ejercicio13\Ejercicio13\Ejercicio13\obj\Debug\Ejercicio13.pdb
